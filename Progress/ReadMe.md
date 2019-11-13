@@ -1,2 +1,1 @@
-
-#일지 입니당
+System.out.println("일지입니당");
