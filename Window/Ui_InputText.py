@@ -8,7 +8,13 @@
 
 from PyQt5 import QtCore, QtGui, QtWidgets
 
-class Ui_Dialog(object):
+class Ui_InputText(object):
+
+    def __init__(self, window,code):
+        self.code = code
+        self.setupUi(window)
+        _translate = QtCore.QCoreApplication.translate
+
     def setupUi(self, Dialog):
         Dialog.setObjectName("Dialog")
         Dialog.resize(576, 292)
@@ -43,4 +49,5 @@ class Ui_Dialog(object):
 "</style></head><body style=\" font-family:\'Gulim\'; font-size:9pt; font-weight:400; font-style:normal;\">\n"
 "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><br /></p></body></html>"))
         self.lb_info.setText(_translate("Dialog", "InputInfo"))
+
 

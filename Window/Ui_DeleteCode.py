@@ -1,19 +1,15 @@
-# -*- coding: utf-8 -*-
-
-# Form implementation generated from reading ui file 'C:\Users\MSI\Desktop\DeleteCode.ui'
-#
-# Created by: PyQt5 UI code generator 5.9.2
-#
-# WARNING! All changes made in this file will be lost!
+import sys
 
 from PyQt5 import QtCore, QtGui, QtWidgets
+from PyQt5.QtWidgets import QApplication, QWidget, QInputDialog, QLineEdit, QFileDialog, QDialog
+from PyQt5.QtGui import QIcon
+
 
 class Ui_Dialog(object):
+
     def setupUi(self, Dialog):
         Dialog.setObjectName("Dialog")
         Dialog.resize(390, 152)
-        Dialog.setSizeGripEnabled(False)
-        Dialog.setModal(True)
         self.groupBox = QtWidgets.QGroupBox(Dialog)
         self.groupBox.setGeometry(QtCore.QRect(20, 20, 351, 111))
         self.groupBox.setObjectName("groupBox")
@@ -40,3 +36,15 @@ class Ui_Dialog(object):
         self.groupBox.setTitle(_translate("Dialog", "삭제 코드 입력"))
         self.lb_delete.setText(_translate("Dialog", "삭제 코드 :"))
 
+    def Click_Okay(self):
+        app = QApplication(sys.argv)
+        sys.exit(app.exec_())
+
+
+
+def start():
+    dialog = QDialog()
+    dialog.ui = Ui_Dialog()
+    dialog.ui = dialog.ui.setupUi(dialog)
+    dialog.setAttribute(QtCore.Qt.WA_DeleteOnClose)
+    dialog.exec_()
