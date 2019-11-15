@@ -9,7 +9,6 @@ class FucntionControl:
     def __init__(self, window):
         self.window = window
         self.initProject()
-        self.code = ""
 
     def initProject(self):
         self.companyContainer = Container(self.window)
@@ -52,16 +51,12 @@ class FucntionControl:
 
     # 삭제 코드 창 오픈
     def btn_openDelete(self):
-        print(self.code)
-        a = start()
-        #if a.exec_():
-           # print("erew")
+        print(Ui_InputText())
+
 
     # 입력 확장 버튼 클릭
     def btn_openInput(self):
-        self.dialog = QtWidgets.QMainWindow()
-        self.dialog.ui = Ui_InputText(self.dialog,self.code)
-        self.dialog.show()
+        a = Ui_InputText()
 
 
     # 로우 선택 시
