@@ -51,7 +51,7 @@ class FucntionControl:
 
     # 삭제 코드 창 오픈
     def btn_openDelete(self):
-        print(Ui_InputText())
+        print(Ui_DeleteCode())
 
 
     # 입력 확장 버튼 클릭
