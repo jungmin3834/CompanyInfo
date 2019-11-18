@@ -54,8 +54,8 @@ def Info_to_firebase(company):
             '기타언어':company.PassQualification.other,
             '자격증':company.PassQualification.certificate,
             '해외경험':company.PassQualification.experience,
-            '수상 내역:':company.PassQualification.award,
-            '인턴:':company.PassQualification.intern,
+            '수상 내역':company.PassQualification.award,
+            '인턴':company.PassQualification.intern,
             '봉사 활동' : company.PassQualification.volunteer
             }
         }
