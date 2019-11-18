@@ -219,7 +219,7 @@ class Info_Window(object):
 
         #자격요건(입력)
         self.qualification = QtWidgets.QLabel(self.groupBox_5)
-        self.qualification.setGeometry(QtCore.QRect(100, 60, 120, 21))
+        self.qualification.setGeometry(QtCore.QRect(100, 60, 411, 21))
         self.qualification.setObjectName("qualification")
 
         #채용절차
