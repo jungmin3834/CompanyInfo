@@ -70,7 +70,6 @@ class FucntionControl:
         ref = db.reference(s)
         print("입력된것:",ref.get())
 
-        print(Ui_DeleteCode())
         if(str(ref.get())==str(Ui_DeleteCode())):
             print("삭제 되었음")
             return True
