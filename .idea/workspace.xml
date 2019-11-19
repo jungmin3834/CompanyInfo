@@ -1,120 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5d5e5d0-be25-4489-80ca-f200a7945c62" name="Default Changelist" comment="" />
+    <list default="true" id="c5d5e5d0-be25-4489-80ca-f200a7945c62" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Window/Info_Window.py" beforeDir="false" afterPath="$PROJECT_DIR$/Window/Info_Window.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EventControll/send_firebase.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="893">
-              <caret line="47" column="14" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ClassDirectory/Company.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Window/Ui_MainWindow.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="202" column="49" lean-forward="true" selection-start-line="202" selection-start-column="49" selection-end-line="202" selection-end-column="49" />
-              <folding>
-                <element signature="e#24#62#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ClassDirectory/CompanyInfo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="79">
-              <caret line="54" column="30" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/EventControll/FunctionControl.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="701">
-              <caret line="61" column="13" lean-forward="true" selection-start-line="61" selection-start-column="13" selection-end-line="62" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Window/Info_Window.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="17" />
-              <folding>
-                <element signature="e#336#1947#0" />
-                <element signature="e#1992#11147#0" />
-                <element signature="e#11198#13692#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Window/Ui_DeleteCode.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="33" selection-end-column="51" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Anaconda3/Lib/xml/etree/ElementTree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22572">
-              <caret line="1196" selection-start-line="1196" selection-end-line="1196" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/PyQt5/uic/uiparser.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19095">
-              <caret line="1012" selection-start-line="1012" selection-end-line="1012" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Window/Ui_InputText.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="683">
-              <caret line="60" column="47" selection-start-line="60" selection-start-column="47" selection-end-line="60" selection-end-column="47" />
-              <folding>
-                <element signature="e#219#229#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -137,88 +32,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/buttonFunction.py" />
-        <option value="$PROJECT_DIR$/company.py" />
-        <option value="$PROJECT_DIR$/ClassDirectory/company.py" />
-        <option value="$PROJECT_DIR$/buttonControl.py" />
-        <option value="$PROJECT_DIR$/EventControll/buttonFunction.py" />
-        <option value="$PROJECT_DIR$/EventControll/buttonControl.py" />
-        <option value="$PROJECT_DIR$/mytest.py" />
-        <option value="$PROJECT_DIR$/main.py" />
-        <option value="$PROJECT_DIR$/Main.py" />
-        <option value="$PROJECT_DIR$/Trash.py" />
-        <option value="$PROJECT_DIR$/EventControll/Control.py" />
-        <option value="$PROJECT_DIR$/ClassDirectory/CompanyInfo.py" />
-        <option value="$PROJECT_DIR$/functions.py" />
-        <option value="$PROJECT_DIR$/send_firebase.py" />
-        <option value="$PROJECT_DIR$/classes.py" />
-        <option value="$PROJECT_DIR$/ClassDirectory/Company.py" />
-        <option value="$PROJECT_DIR$/Ui_MainWindow.py" />
-        <option value="$PROJECT_DIR$/Info_Window.py" />
-        <option value="$PROJECT_DIR$/EventControll/ButtonControl.py" />
-        <option value="$PROJECT_DIR$/Container/Container.py" />
-        <option value="$PROJECT_DIR$/EventControll/send_firebase.py" />
-        <option value="$PROJECT_DIR$/Window/DeleteCode.py" />
-        <option value="$PROJECT_DIR$/Window/Info_Window.py" />
-        <option value="$PROJECT_DIR$/Window/Ui_DeleteCode.py" />
-        <option value="$PROJECT_DIR$/Window/Ui_InputText.py" />
-        <option value="$PROJECT_DIR$/Window/Ui_MainWindow.py" />
-        <option value="$PROJECT_DIR$/EventControll/FunctionControl.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-17" />
-    <option name="width" value="1755" />
-    <option name="height" value="662" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="pythonProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonProject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythonProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonProject" type="462c0819:PsiDirectoryNode" />
-              <item name="ClassDirectory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythonProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonProject" type="462c0819:PsiDirectoryNode" />
-              <item name="Container" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythonProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonProject" type="462c0819:PsiDirectoryNode" />
-              <item name="EventControll" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythonProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonProject" type="462c0819:PsiDirectoryNode" />
-              <item name="Progress" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythonProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonProject" type="462c0819:PsiDirectoryNode" />
-              <item name="Window" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
-  </component>
+  <component name="ProjectId" id="1TnQkgn6I1CwattgTOQluUQoMVf" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -251,9 +65,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\User\Anaconda3\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
@@ -306,201 +120,15 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1601686" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.26789588" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.12581345" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1724153006/PyQt5/QtCore/QRect.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="301" column="35" lean-forward="true" selection-start-line="301" selection-start-column="35" selection-end-line="301" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EventControll/buttonFunction.py" />
-    <entry file="file://$PROJECT_DIR$/mytest.py" />
-    <entry file="file://$PROJECT_DIR$/EventControll/Control.py" />
-    <entry file="file://$PROJECT_DIR$/functions.py" />
-    <entry file="file://$PROJECT_DIR$/classes.py" />
-    <entry file="file://$PROJECT_DIR$/Trash.py" />
-    <entry file="file://$PROJECT_DIR$/EventControll/ButtonControl.py" />
-    <entry file="file://$PROJECT_DIR$/analysis-for-company-firebase-adminsdk-7tnqu-2044da0542.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Window/DeleteCode.py" />
-    <entry file="file://$USER_HOME$/Anaconda3/Lib/runpy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3572">
-          <caret line="192" selection-start-line="192" selection-end-line="192" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/PyInstaller/building/build_main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4028">
-          <caret line="212" column="43" selection-start-line="212" selection-start-column="43" selection-end-line="212" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/firebase_admin/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2451">
-          <caret line="137" selection-start-line="137" selection-end-line="137" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/firebase_admin/_utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1273">
-          <caret line="76" selection-start-line="76" selection-end-line="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Container/Container.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EventControll/send_firebase.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="893">
-          <caret line="47" column="14" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClassDirectory/Company.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/Lib/xml/etree/ElementTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22572">
-          <caret line="1196" selection-start-line="1196" selection-end-line="1196" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/PyQt5/uic/uiparser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19095">
-          <caret line="1012" selection-start-line="1012" selection-end-line="1012" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Window/Info_Window.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="17" />
-          <folding>
-            <element signature="e#336#1947#0" />
-            <element signature="e#1992#11147#0" />
-            <element signature="e#11198#13692#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/MainPage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClassDirectory/CompanyInfo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="54" column="30" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Window/Ui_InputText.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="683">
-          <caret line="60" column="47" selection-start-line="60" selection-start-column="47" selection-end-line="60" selection-end-column="47" />
-          <folding>
-            <element signature="e#219#229#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Window/Ui_MainWindow.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="202" column="49" lean-forward="true" selection-start-line="202" selection-start-column="49" selection-end-line="202" selection-end-column="49" />
-          <folding>
-            <element signature="e#24#62#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Window/Ui_DeleteCode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="33" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EventControll/FunctionControl.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="701">
-          <caret line="61" column="13" lean-forward="true" selection-start-line="61" selection-start-column="13" selection-end-line="62" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

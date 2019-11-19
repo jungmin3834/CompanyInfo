@@ -54,6 +54,9 @@ class CompanyInfo:
         self.welfare = window.tv_welfare  # 복지
         self.PassQualification = self.PassQualificationInfo(window)  # 합격스팩 클래스(따로 빼뒀음)
 
+
+
+
     def makeUpEditText(self,company):
         self.company.setText(company.company)
         self.sales.setText(company.sales)
