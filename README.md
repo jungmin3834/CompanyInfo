@@ -1,7 +1,7 @@
 # CompanyInfo
 //2차 계획 및 진행 방향
 
-기존 firebase 서버 -> Python + Django  + AWS + mongoDB 조합으로 바꿀 예정.
+기존 firebase 서버 -> Nodejs + AWS + mongoDB/mysql 조합으로 바꿀 예정.
 - 손정민 - 2020년 01월 24일
 
 
